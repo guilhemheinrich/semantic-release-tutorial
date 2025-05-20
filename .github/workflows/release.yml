@@ -29,7 +29,7 @@ jobs:
 
       - name: Release | Semantic Version
         id: release
-        run: poetry run semantic-release version -vvv
+        run: poetry run semantic-release version -vv
         env:
             GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
