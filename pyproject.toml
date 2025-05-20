@@ -38,6 +38,10 @@ allow_zero_version = true
 repo_dir = "C:\\Users\\Guilhem\\code\\SUPAGRO\\playground-pyscaf\\poetry-sem"
 no_git_verify = false
 tag_format = "v{version}"
+upload_to_pypi = false
+upload_to_release = true
+upload_to_repository = true
+repository_url = "https://test.pypi.org/legacy/"
 
 [tool.semantic_release.branches.main]
 match = "(main|master)"
