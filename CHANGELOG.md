@@ -1,6 +1,22 @@
 # CHANGELOG
 
 
+## v0.10.0 (2025-05-20)
+
+### Bug Fixes
+
+- Adding poetry to the mix (release wkf)
+  ([`4b9f4cd`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/4b9f4cdbdd010d725068a860f0767c8327a200cd))
+
+- And again
+  ([`2c462f5`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/2c462f5516c05b8d8d8f1776ee27b1b94ff0d9b6))
+
+### Features
+
+- And go
+  ([`64c6315`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/64c6315f0f377f7f2e8f68abf3dbe71e77f41216))
+
+
 ## v0.9.1 (2025-05-20)
 
 ### Bug Fixes
@@ -10,6 +26,9 @@
 
 - Hmm
   ([`b206589`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/b206589b9f1cdf63027ce3a9e779d0b527973d2d))
+
+- Hmm hmm
+  ([`b11b298`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/b11b2984df298d2253892a28358bf7708f6ab32e))
 
 
 ## v0.9.0 (2025-05-20)
