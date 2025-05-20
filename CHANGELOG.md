@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.3.0 (2025-05-20)
+
+### Features
+
+- Some other meaningless things
+  ([`192627e`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/192627e0c66d12f43f08df5964527ce77b39f828))
+
+
 ## v0.2.0 (2025-05-20)
 
 
