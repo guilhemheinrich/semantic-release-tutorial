@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.4.0 (2025-05-20)
+
+### Features
+
+- Adding pypi test configuration
+  ([`e03b2c6`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/e03b2c654197505d5705be87c6ebad29b3af24dd))
+
+
 ## v0.3.0 (2025-05-20)
 
 ### Features
