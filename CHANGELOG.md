@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.8.0 (2025-05-20)
+
+### Features
+
+- Check artifact again agai
+  ([`cdf0f0b`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/cdf0f0ba2f3940820643022724554e9c974a09bd))
+
+
 ## v0.7.0 (2025-05-20)
 
 ### Features
