@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.7.0 (2025-05-20)
+
+### Features
+
+- Check artifact again
+  ([`88613cd`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/88613cd3b1496b56474ce93ebf92df4315dd33a0))
+
+
 ## v0.6.0 (2025-05-20)
 
 ### Features
