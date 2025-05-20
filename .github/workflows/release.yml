@@ -23,6 +23,12 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Install poetry
+        run: pip install poetry
+
+      - name: Install dependencies
+        run: poetry install
+
       - name: Release | Semantic Version
         id: release
         uses: python-semantic-release/python-semantic-release@v9.21.1
