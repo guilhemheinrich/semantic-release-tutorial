@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.5.0 (2025-05-20)
+
+### Features
+
+- And again BREAKING CHANGE
+  ([`84d3249`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/84d3249fa141987d6ff295484bbc1f2f375e7462))
+
+
 ## v0.4.0-rc.1 (2025-05-20)
 
 ### Features
