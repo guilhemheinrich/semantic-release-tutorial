@@ -26,12 +26,16 @@ jobs:
       - name: Install project dependencies
         run: poetry install
 
-      - name: Install semantic-release plugin
+      - name: Install semantic-release
         run: poetry run pip install python-semantic-release
+
+      - name: Run semantic-release version
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: poetry run semantic-release version
 
       - name: Run semantic-release publish
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           PYPI_USERNAME: __token__
           PYPI_PASSWORD: ${{ secrets.TEST_PYPI_PASSWORD }}
-        run: poetry run semantic-release publish --patch
+        run: poetry run semantic-release publish
