@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.4.0-rc.1 (2025-05-20)
+
+### Features
+
+- And again
+  ([`baae26c`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/baae26cc797eaa7467c98ea16207f410d326ddd1))
+
+
 ## v0.4.0 (2025-05-20)
 
 ### Features
