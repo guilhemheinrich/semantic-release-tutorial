@@ -23,12 +23,14 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Install python-semantic-release
+        run: poetry add python-semantic-release@^9.21.1
+
       - name: Release | Semantic Version
         id: release
-        uses: python-semantic-release/python-semantic-release@v9.21.1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          verbosity: 2
+        run: poetry run semantic-release version -vvv
+        env:
+            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish | Upload to GitHub Release Assets
         uses: python-semantic-release/publish-action@v9.21.1
