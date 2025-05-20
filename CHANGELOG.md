@@ -1,6 +1,40 @@
 # CHANGELOG
 
 
+## v0.9.0 (2025-05-20)
+
+### Bug Fixes
+
+- Another try
+  ([`1d3a7c0`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/1d3a7c051944ca2ba669675f87728150de90098f))
+
+- Another try
+  ([`b4101e4`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/b4101e40e5896b3479b6291da7831588de514c45))
+
+- Another try
+  ([`fac856b`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/fac856b03f594b69aa94dfd42ae645d7afcfe100))
+
+### Features
+
+- A new hope
+  ([`a357115`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/a35711555d64e887b76f2e20f2c94c3ad9641f97))
+
+- Added release action
+  ([`01d7ffb`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/01d7ffb0ba253fa8cac7de542b7c139f37bdde51))
+
+- Added release action
+  ([`9f0ba7a`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/9f0ba7a48d1f32c606a1e11ebf222ce8f37bd2c9))
+
+- Fix ?
+  ([`b22aa3f`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/b22aa3f8be947c60dda0ff8b78f78d5d4690ee08))
+
+- Fix ? maybe
+  ([`6e1de1b`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/6e1de1b1e688c6436ec46a0f146b67fa70772370))
+
+- More debug
+  ([`16174ea`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/16174ea29b4b5ad19dc42d4df66df577fa52a85c))
+
+
 ## v0.8.0 (2025-05-20)
 
 ### Features
