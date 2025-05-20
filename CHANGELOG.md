@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.1.0 (2025-05-20)
+
+### Features
+
+- Trigger release
+  ([`9ccbbf0`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/9ccbbf0d95531a4af69c102e2d9815ca2de7559a))
+
+
 ## v0.0.0-rc.3 (2025-05-20)
 
 
