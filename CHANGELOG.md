@@ -1,6 +1,25 @@
 # CHANGELOG
 
 
+## v0.12.0-rc.1 (2025-05-22)
+
+### Bug Fixes
+
+- Updated action file
+  ([`9e2df92`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/9e2df92beaac1cca873ed9aa1a0196b5fc0f80a2))
+
+### Features
+
+- Add develop branch to semantic release
+  ([`d03626b`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/d03626b3665a048778ad838273d995c1c6041b8b))
+
+- Test prerelease branch
+  ([`8ffda81`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/8ffda81b0127fbbb7930cc57c050d902092d56a6))
+
+- Test prerelease branch
+  ([`2b17207`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/2b17207ac180aace8a251b6ae56086adc8934b8c))
+
+
 ## v0.11.0 (2025-05-22)
 
 ### Features
