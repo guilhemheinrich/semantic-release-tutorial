@@ -1,6 +1,6 @@
 [project]
 name = "poetry-sem"
-version = "0.13.1-rc.2"
+version = "0.13.1-rc.3"
 description = "Test project for versioning with poetry & setup tools."
 authors = [
     {name = "guilhem.heinrich",email = "guilhem.heinrich@gmail.com"}
