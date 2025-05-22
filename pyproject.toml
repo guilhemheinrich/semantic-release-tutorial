@@ -55,7 +55,7 @@ prerelease = true
 
 [tool.semantic_release.changelog]
 exclude_commit_patterns = []
-mode = "init"
+mode = "keep"
 insertion_flag = "<!-- version list -->"
 template_dir = "templates"
 
