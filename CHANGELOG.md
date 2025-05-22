@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.11.0 (2025-05-22)
+
+### Features
+
+- Correcttly update file version number ?
+  ([`1de3818`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/1de3818826f0af1df0c529151c699b5d0b30db99))
+
+
 ## v0.10.0 (2025-05-20)
 
 ### Bug Fixes
