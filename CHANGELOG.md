@@ -1,6 +1,17 @@
 # CHANGELOG
 
 
+## v0.12.0 (2025-05-22)
+
+### Features
+
+- Add develop branch to semantic release
+  ([`17a2baf`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/17a2baf0bdf06666b91f0fedd41933c107034553))
+
+- Add develop branch to semantic release
+  ([`d03626b`](https://github.com/guilhemheinrich/semantic-release-tutorial/commit/d03626b3665a048778ad838273d995c1c6041b8b))
+
+
 ## v0.11.0 (2025-05-22)
 
 ### Features
