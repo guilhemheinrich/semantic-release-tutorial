@@ -37,18 +37,21 @@ commit_parser = "conventional"
 logging_use_named_masks = false
 major_on_zero = true
 allow_zero_version = true
-# repo_dir = "C:\\Users\\Guilhem\\code\\SUPAGRO\\playground-pyscaf\\poetry-sem"
 no_git_verify = false
 tag_format = "v{version}"
 upload_to_pypi = true
 upload_to_release = true
 upload_to_repository = false
-# repository_url = "https://test.pypi.org/legacy/"
 
 [tool.semantic_release.branches.main]
 match = "(main|master)"
 prerelease_token = "rc"
 prerelease = false
+
+[tool.semantic_release.branches.develop]
+match = "(develop)"
+prerelease_token = "rc"
+prerelease = true
 
 [tool.semantic_release.changelog]
 exclude_commit_patterns = []
